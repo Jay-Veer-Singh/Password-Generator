@@ -1,6 +1,5 @@
-# CODSOFT
+# Password Generator
 
-This is for an Internship from Codsoft
 
 A password generator is a useful tool that generates strong and random passwords for users.
 
